@@ -22,6 +22,8 @@ Um die Anwendung zu installieren, führen Sie die folgenden Schritte aus:
 3. Installieren Sie die erforderlichen Abhängigkeiten: npm install
 4. Starten Sie die Anwendung: npm start
 
+- **Alternative:** https://we.tl/t-oxK8jEPmR3 
+
 ## Verwendung
 Nach der Installation können Sie die Anwendung einfach starten, um sie zu verwenden. Die Anwendung zeigt alle installierten/hinzugefügten Spiele und Apps an und ermöglicht Ihnen die Verwaltung und Verwendung der Anwendungen.
 
