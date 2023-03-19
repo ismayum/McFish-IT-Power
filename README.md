@@ -23,10 +23,10 @@ Starten Sie die Anwendung: npm start
 Nach der Installation können Sie die Anwendung einfach starten, um sie zu verwenden. Die Anwendung zeigt alle installierten/hinzugefügten Spiele und Apps an und ermöglicht Ihnen die Verwaltung und Verwendung der Anwendungen.
 
 ## Autoren
-Ismail Ismail
-Ibrahim Gönen
-Fabian Carias
-Mani Rafietaheri
++ Ismail Ismail
++ Ibrahim Gönen
++ Fabian Carias
++ Mani Rafietaheri
 
 ## Lizenz
 Dieses Projekt verwendet das Bunifu-Framework. Weitere Informationen finden Sie in der LICENSE.md Datei des Frameworks.
