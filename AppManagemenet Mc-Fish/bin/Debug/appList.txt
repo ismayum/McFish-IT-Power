@@ -1,8 +1,0 @@
-	---AppList-2
-C:\Users\Ismail\Desktop\Test\TestFile1.txt
-File1
-efesgsh
-	---AppList-2
-C:\Users\Ismail\Desktop\Test\TestFile3.txt
-File3
-segseh
