@@ -14,10 +14,10 @@ AppManagement Screenshot
 ## Installation
 Um die Anwendung zu installieren, führen Sie die folgenden Schritte aus:
 
-Klonen Sie das Repository: git clone https://github.com/ismayum/McFish-IT-Power.git
-Navigieren Sie in das Verzeichnis: cd repo
-Installieren Sie die erforderlichen Abhängigkeiten: npm install
-Starten Sie die Anwendung: npm start
+1. Klonen Sie das Repository: git clone https://github.com/ismayum/McFish-IT-Power.git
+2. Navigieren Sie in das Verzeichnis: cd repo
+3. Installieren Sie die erforderlichen Abhängigkeiten: npm install
+4. Starten Sie die Anwendung: npm start
 
 ## Verwendung
 Nach der Installation können Sie die Anwendung einfach starten, um sie zu verwenden. Die Anwendung zeigt alle installierten/hinzugefügten Spiele und Apps an und ermöglicht Ihnen die Verwaltung und Verwendung der Anwendungen.
