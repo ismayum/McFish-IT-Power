@@ -11,6 +11,8 @@ Starten Sie Spiele und Apps direkt aus der Anwendung
 
 ## Screenshot
 ![Start-Menü](https://my.mail.de/dl/5c49b6df15bce0645873c80096e0c0af)
+![Details-Anzeigen](https://my.mail.de/dl/61c1fab60bbd7e14bc3d328553299fad)
+![Details-Hinzufügen](https://my.mail.de/dl/0c7995c7eb3339412f4fb7ae6f2ac5d5)
 
 ## Installation
 Um die Anwendung zu installieren, führen Sie die folgenden Schritte aus:
