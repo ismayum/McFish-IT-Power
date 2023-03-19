@@ -25,6 +25,8 @@ Um die Anwendung zu installieren, führen Sie die folgenden Schritte aus:
 ## Verwendung
 Nach der Installation können Sie die Anwendung einfach starten, um sie zu verwenden. Die Anwendung zeigt alle installierten/hinzugefügten Spiele und Apps an und ermöglicht Ihnen die Verwaltung und Verwendung der Anwendungen.
 
+:warning: Es kann jedoch vorkommen, dass nach dem Herunterladen und Starten des Projekts eine Fehlermeldung angezeigt wird, in der steht, dass einige Dateien nicht unterstützt werden. In diesem Fall müssen Sie diese Dateien im entsprechenden Ordner finden, dann auf die Eigenschaften zugreifen und im Sicherheitsbereich auf die Schaltfläche "Zulassen" klicken, um die Datei verwenden zu können.
+
 ## Autoren
 + Ismail Ismail
 + Ibrahim Gönen
