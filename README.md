@@ -34,5 +34,5 @@ Nach der Installation können Sie die Anwendung einfach starten, um sie zu verwe
 ## Lizenz
 Dieses Projekt verwendet das Bunifu-Framework. Weitere Informationen finden Sie in der LICENSE.md Datei des Frameworks.
 
-### Unsere IT-Firma bietet innovative Lösungen für die digitale Transformation von Unternehmen. 
+### Unsere IT-Firma bietet innovative Lösungen für die digitale Transformation von Unternehmen. :shipit:
 
