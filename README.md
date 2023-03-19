@@ -8,8 +8,9 @@ Fügen Sie neue Spiele oder Apps hinzu
 Löschen Sie unerwünschte Apps
 Verwalten Sie vorhandene Spiele und Apps
 Starten Sie Spiele und Apps direkt aus der Anwendung
-Screenshot
-AppManagement Screenshot
+
+## Screenshot
+![Start-Menü](https://my.mail.de/dl/5c49b6df15bce0645873c80096e0c0af)
 
 ## Installation
 Um die Anwendung zu installieren, führen Sie die folgenden Schritte aus:
